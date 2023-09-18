@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/shaylioz/static/css/main.82783916.css",
+    "main.js": "/shaylioz/static/js/main.800a2960.js",
+    "static/js/787.f262ceb8.chunk.js": "/shaylioz/static/js/787.f262ceb8.chunk.js",
+    "static/media/canopy_1.jpg": "/shaylioz/static/media/canopy_1.81d4f56abe1aefbcfd21.jpg",
+    "static/media/couple_2.png": "/shaylioz/static/media/couple_2.0271661e7ac429f1e06b.png",
+    "static/media/couple_1.png": "/shaylioz/static/media/couple_1.2c6ab034d4536b48f7d3.png",
+    "static/media/canopy_5.jpg": "/shaylioz/static/media/canopy_5.f255a7ccc9dbd2bbd121.jpg",
+    "static/media/couple_3.jpg": "/shaylioz/static/media/couple_3.caaa9cd06ef4f0cc1b93.jpg",
+    "static/media/couple_4.jpg": "/shaylioz/static/media/couple_4.86b4ad3498f69a0fd096.jpg",
+    "static/media/canopy_terasse_3.jpg": "/shaylioz/static/media/canopy_terasse_3.8fe0405e2afc566d94ac.jpg",
+    "static/media/hall_entrance_2.jpg": "/shaylioz/static/media/hall_entrance_2.d37a004bee618f3fc311.jpg",
+    "static/media/hall_entrance_1.jpg": "/shaylioz/static/media/hall_entrance_1.059e9da55804ad7aca7c.jpg",
+    "static/media/canopy_terasse_2.jpg": "/shaylioz/static/media/canopy_terasse_2.3ac16ebcacdd1f017413.jpg",
+    "static/media/hall_3.jpg": "/shaylioz/static/media/hall_3.2ed6d2b13989d255dd92.jpg",
+    "static/media/hall_decorate_table_1.jpg": "/shaylioz/static/media/hall_decorate_table_1.b8dfee19c87c8e59810a.jpg",
+    "static/media/canopy_2.jpg": "/shaylioz/static/media/canopy_2.0aad7595a88777a57310.jpg",
+    "static/media/couple_5.jpg": "/shaylioz/static/media/couple_5.274ca65972be02b87efc.jpg",
+    "static/media/canopy_4.jpg": "/shaylioz/static/media/canopy_4.875c9a8a4610d28617dd.jpg",
+    "static/media/canopy_3.jpg": "/shaylioz/static/media/canopy_3.6489f596a57f4031b2e2.jpg",
+    "static/media/hall_2.jpg": "/shaylioz/static/media/hall_2.aeb68236e3e618ace24e.jpg",
+    "static/media/canopy_terasse_1.jpg": "/shaylioz/static/media/canopy_terasse_1.bdb4d797054a72e0afc7.jpg",
+    "static/media/entrance_table_1.jpg": "/shaylioz/static/media/entrance_table_1.cce932f1df0fd710d30e.jpg",
+    "static/media/hall_1.jpg": "/shaylioz/static/media/hall_1.555e76a1ee401cea345a.jpg",
+    "static/media/logo.png": "/shaylioz/static/media/logo.355f52bead9b8146b93e.png",
+    "static/media/whatsapp_icon1.png": "/shaylioz/static/media/whatsapp_icon1.4fd64ddfb402d6c8efb3.png",
+    "static/media/facebook_icon.png": "/shaylioz/static/media/facebook_icon.e8f7251e872669a2311e.png",
+    "index.html": "/shaylioz/index.html",
+    "main.82783916.css.map": "/shaylioz/static/css/main.82783916.css.map",
+    "main.800a2960.js.map": "/shaylioz/static/js/main.800a2960.js.map",
+    "787.f262ceb8.chunk.js.map": "/shaylioz/static/js/787.f262ceb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82783916.css",
+    "static/js/main.800a2960.js"
+  ]
+}

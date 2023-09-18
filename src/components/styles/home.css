@@ -1,0 +1,42 @@
+
+
+#homeSwapImgsDiv{
+    height: 70vh;
+    background-color: black;
+}
+#homeHeader{
+    background-color: black;
+    color: silver;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#homeHeader_h1{
+    margin: 0;
+    font-size: 50px;
+}
+#homeDesc{
+    /* background-color: red; */
+    padding-bottom: 150px;
+}
+.homeDesc_p{
+    font-size: 20px;
+    line-height: 10px;
+}
+.homeDesc_p2{
+    margin: auto;
+    width: 250px;
+    font-size: 20px;
+    padding: 20px 0;
+    /* line-break: auto; */
+}
+.homeDesc_h3{
+    font-size: 23px;
+    line-height: 60px;
+}
+#homeLogo{
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+}

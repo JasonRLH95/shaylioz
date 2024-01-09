@@ -1,31 +1,52 @@
 #navbarMainDiv{
     width: 100%;
-    height: 30vh;
     background-color: black;
+    /* background-color: blue; */
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
     position: sticky;
     top:0;
+    transition: all 0.1 ease-in-out;
+    color: #fff;
+    z-index: 1000;
 }
+/* .navbarMainDiv {
+    padding: 10px 0;
+}
+
+.squeezed {
+    padding: 5px 0;
+} */
 #navBtnsDiv{
     /* background-color: red; */
-    width: 33%;
-    min-width: 420px;
-    height: 100px;
+    width: fit-content;
+    z-index: 10;
+    list-style: none;
+    transition: all 0.1s ease-in-out;
+    padding: 5px;
     display: flex;
     flex-direction: row-reverse;
+    justify-content: space-between;
+}
+.navBtnsDiv{
+    height: 120px;
+    /* min-width: 33%; */
+    max-width: 39%;
     flex-wrap: wrap;
-    justify-content: space-evenly;
-    z-index: 10;
+    
+}
+.navBtnsDivSqueezed{
+    /* min-width: 33%; */
+    width: fit-content;
+    flex-wrap:nowrap;
 }
 .navBtn{
-    height: 50%;
+    height: 45%;
     min-width: 100px;
-    width: fit-content;
-    background-color: black;
     /* color: rgb(226, 193, 8); */
+    background-color: black;
     color: silver;
     font-size: 16px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -34,18 +55,45 @@
     cursor: pointer;
     border: none;
 }
+.navBtnSqueezed{
+    min-width: 75px;
+    background-color: black;
+    color: silver;
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 20px;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+}
 .navBtn:hover{
     background-color: rgba(255, 255, 255, 0.367);
+    /* border: 1px solid white; */
+}
+.navBtnSqueezed:hover{
+    background-color: rgba(255, 255, 255, 0.367);
+    /* border: 1px solid white; */
 }
 #navLogoDiv{
+    /* background-color: green; */
     width: 33%;
+    display: flex;
+    justify-content:right;
 }
 #navLogo{
-    width: 250px;
+    /* width: 250px; */
+    margin-right: 50px;
     height: 100%;
     border: 5px solid silver;
     border-radius: 20px;
     border-style:double;
+    /* transition: all 0.1s ease-in-out; */
+}
+.navLogo{
+    width: 250px;
+}
+.navLogoSqueezed{
+    width: 100px;
 }
 #socialMedia{
     /* background-color: red; */
@@ -71,3 +119,8 @@
     height:50px;
     cursor: pointer;
 }
+
+
+/* @media only screen and (min-width:){
+
+} */

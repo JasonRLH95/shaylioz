@@ -23,6 +23,7 @@ import hall3 from '../images/hall_3.jpg';
 import hallDecorateTable1 from '../images/hall_decorate_table_1.jpg';
 import hallEntrance1 from '../images/hall_entrance_1.jpg';
 import hallEntrance2 from '../images/hall_entrance_2.jpg';
+import bird from '../images/BirdAfterEdit.png';
 
 
 const images ={
@@ -51,5 +52,6 @@ const images ={
     hallDecorateTable1,
     hallEntrance1,
     hallEntrance2,
+    bird,
 }
 export default images;

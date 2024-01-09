@@ -29,9 +29,9 @@ export default function Home() {
         <ImageSlider/>
       </div>
       <div id='homeHeader'>
-        <h1 id='homeHeader_h1' dir='rtl'>ארגון ניהול והפקת אירועים</h1>
+        <h1 id='homeHeader_h1' dir='rtl'>מירב חן - ניהול והפקת אירועים</h1>
       </div>
-      <div id='homeDesc'>
+      <div id='homeDesc' style={{backgroundImage:`url(${images.bird})`}}>
         <p className='homeDesc_p' dir='rtl'>חתונה היא אירוע מרגש, הגשמת כל המהווים, רצונות, החלומות שלכם</p>
         <p className='homeDesc_p' dir='rtl'>אך יחד עם זאת גם מלחיץ ומאוד יקר. </p>
         <h3 className='homeDesc_h3' dir='rtl'>בשביל זה אני כאן !</h3>

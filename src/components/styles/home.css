@@ -18,7 +18,9 @@
 }
 #homeDesc{
     /* background-color: red; */
-    padding-bottom: 150px;
+    padding: 150px;
+    background-position:center;
+    background-size: cover;    
 }
 .homeDesc_p{
     font-size: 20px;

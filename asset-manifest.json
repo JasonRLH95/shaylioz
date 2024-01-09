@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/shaylioz/static/css/main.82783916.css",
-    "main.js": "/shaylioz/static/js/main.800a2960.js",
+    "main.css": "/shaylioz/static/css/main.806cabc7.css",
+    "main.js": "/shaylioz/static/js/main.d02b3390.js",
     "static/js/787.f262ceb8.chunk.js": "/shaylioz/static/js/787.f262ceb8.chunk.js",
     "static/media/canopy_1.jpg": "/shaylioz/static/media/canopy_1.81d4f56abe1aefbcfd21.jpg",
     "static/media/couple_2.png": "/shaylioz/static/media/couple_2.0271661e7ac429f1e06b.png",
+    "static/media/BirdAfterEdit.png": "/shaylioz/static/media/BirdAfterEdit.848be1277934bbfedb7f.png",
     "static/media/couple_1.png": "/shaylioz/static/media/couple_1.2c6ab034d4536b48f7d3.png",
     "static/media/canopy_5.jpg": "/shaylioz/static/media/canopy_5.f255a7ccc9dbd2bbd121.jpg",
     "static/media/couple_3.jpg": "/shaylioz/static/media/couple_3.caaa9cd06ef4f0cc1b93.jpg",
@@ -27,12 +28,12 @@
     "static/media/whatsapp_icon1.png": "/shaylioz/static/media/whatsapp_icon1.4fd64ddfb402d6c8efb3.png",
     "static/media/facebook_icon.png": "/shaylioz/static/media/facebook_icon.e8f7251e872669a2311e.png",
     "index.html": "/shaylioz/index.html",
-    "main.82783916.css.map": "/shaylioz/static/css/main.82783916.css.map",
-    "main.800a2960.js.map": "/shaylioz/static/js/main.800a2960.js.map",
+    "main.806cabc7.css.map": "/shaylioz/static/css/main.806cabc7.css.map",
+    "main.d02b3390.js.map": "/shaylioz/static/js/main.d02b3390.js.map",
     "787.f262ceb8.chunk.js.map": "/shaylioz/static/js/787.f262ceb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82783916.css",
-    "static/js/main.800a2960.js"
+    "static/css/main.806cabc7.css",
+    "static/js/main.d02b3390.js"
   ]
 }
